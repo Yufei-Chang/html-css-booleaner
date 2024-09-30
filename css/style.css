@@ -1,7 +1,7 @@
 .corp {
-    position: relative;
+    /* qualcosina ci va sicuramente qua */
 }
-
+    /* Zona Header */
 .banner {
     background-image: url(../img/pattern.png);
     height: 180px;
@@ -14,7 +14,6 @@
     height: 50%;
     width: 50%;
     background-repeat: no-repeat;
-    background-position: left, bottom;
 }
 
 .wroteby {
@@ -29,13 +28,17 @@
 .photodescription {
     font-size: 10px;
 }
-
+    /* Paragrafi testuali */
 .importantkey {
     background-color: yellow;
 }
 
 ul {
     padding: 15px;
+}
+
+.table {
+    border-collapse: collapse;
 }
 
 .thead {
@@ -54,6 +57,7 @@ ul {
     background-color: white;
 }
 
+    /* Footer */
 .linkutili {
     color: grey;
 }
