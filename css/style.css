@@ -1,0 +1,74 @@
+.banner {
+    background-image: url(../img/pattern.png); 
+    height: 180px;
+    background-repeat: repeat;
+    background-color: cornflowerblue;
+}
+
+.logo {
+    background-image: url(../img/logo.svg);
+    height: 50%;
+    width: 50%;
+    background-repeat: no-repeat;
+    background-position:left, bottom;
+}
+
+.wroteby {
+    font-size: small;
+    color: darkgray;
+}
+.operator {
+    color: cornflowerblue;
+}
+
+.photodescription {
+    font-size: 10px;
+}
+
+.importantkey {
+    background-color: yellow;
+}
+
+ul {
+    padding: 15px;
+}
+
+.thead {
+    font-size: small;
+    color: white;
+    background-color: dodgerblue;
+}
+
+.tbodycolor {
+    font-size: small;
+    background-color: lightblue;
+}
+
+.tbodywhite {
+    font-size: small;
+    background-color: white;
+}
+
+.linkutili {
+    color: grey;
+}
+
+.monitor {
+    color: white;
+    padding-left: 10px;
+    background-image: url(../img/monitor.jpg);
+    height: 200px;
+    width: 300px;
+    background-size: 60%;
+    background-repeat: no-repeat;
+}
+
+.graph {
+    color: white;
+    padding-left: 10px;
+    background-image: url(../img/graph.jpg);
+    height: 200px;
+    width: 300px;
+    background-size: 60%;
+    background-repeat: no-repeat;
+}
